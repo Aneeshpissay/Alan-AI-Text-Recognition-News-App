@@ -41,7 +41,7 @@ function App() {
        <AppBar position="static" style={{height: '64px', backgroundColor: '#7676ff'}}>
             <Toolbar>
           <Typography color="inherit" style={{ fontFamily: 'Quicksand'}}>
-            ALAN VOICE RECOGNITION NEWS APP
+            ALAN AI VOICE RECOGNITION NEWS APP
           </Typography>
         </Toolbar>
       </AppBar>
