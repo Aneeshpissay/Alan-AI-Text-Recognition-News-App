@@ -120,4 +120,4 @@ intent('go back', (p)=>{
    p.play({command: 'newHeadlines', articles: []});
 });
 
-Click on Intergrations on Top and copy the alan sdk key and paste in alenKey in App.js file
+### Click on Intergrations on Top and copy the alan sdk key and paste in alenKey in App.js file
